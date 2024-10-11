@@ -50,19 +50,19 @@ export const NAV_LINKS = [
   // FOOTER SECTION
   export const FOOTER_LINKS = [
     {
-      title: 'Learn More',
+      title: 'Sobre nós',
       links: [
         'Sobre',
-        'Press Releases',
-        'Environment',
-        'Jobs',
-        'Privacy Policy',
+        'Revista',
+        'Ambientes',
+        'Trabalhe conosco',
+        'Termos de Uso',
         'Contato',
       ],
     },
     {
-      title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      title: 'Comunidade',
+      links: ['Camping xixixi', 'Camping hilink', 'Camping kinthill'],
     },
   ];
   
@@ -70,7 +70,7 @@ export const NAV_LINKS = [
     title: 'Contato',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email Oficial', value: 'rodrigonmachado15@hotmail.com' },
     ],
   };
   
@@ -79,7 +79,6 @@ export const NAV_LINKS = [
     links: [
       '/facebook.svg',
       '/instagram.svg',
-      '/twitter.svg',
       '/youtube.svg',
       '/wordpress.svg',
     ],
