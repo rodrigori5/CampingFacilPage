@@ -11,7 +11,7 @@ const Guide = () => {
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]"> Guia você para o caminho certo</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Somente com o aplicativo Camping Fácil você não vai mais se perder, pois já oferecemos suporte a mapas offline quando não há conexão com internet no campo. Convide seus amigos, parentes e amigos para se divertir e chegar ao topo da montanha
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Somente com o aplicativo Camping Fácil você não vai mais se perder, pois já oferecemos suporte a mapas offline quando não há conexão com internet no campo. Convide seus amigos e parentes para se divertirem e chegarem ao topo da montanha.
           </p>
         </div>
       </div>

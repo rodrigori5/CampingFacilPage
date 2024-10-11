@@ -71,7 +71,7 @@ const Camp = () => {
             <strong>Se sente perdido?</strong> não sabe o caminho?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-          A partir da ansiedade dos escaladores ao visitar um novo local de escalada, a possibilidade de se perderem é muito grande. É por isso que estamos aqui para aqueles que querem começar uma aventura
+          A partir da ansiedade de visitar um novo local, a possibilidade de se perder é muito grande. É por isso que estamos aqui para aqueles que querem começar uma aventura
           </p>
           <Image 
             src="/quote.svg"
